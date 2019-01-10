@@ -1,8 +1,8 @@
 # Web_markerdown
 
-# PHP
+# 1.PHP
 
-# 明碼加密
+ 明碼加密
 
 // 會員註冊時, 將 $hash 寫入到 mysql 的 user.user_password 
  $hash = password_hash("123456", PASSWORD_DEFAULT);
