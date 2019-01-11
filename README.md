@@ -2,7 +2,7 @@
 
 # 1.PHP
 
- 明碼加密
+ 明碼加密1:不可解密 只可以判斷
 
 // 會員註冊時, 將 $hash 寫入到 mysql 的 user.user_password 
  $hash = password_hash("123456", PASSWORD_DEFAULT);
@@ -15,3 +15,6 @@
   } else {
    // fail
   }
+
+
+ 明碼加密2:
