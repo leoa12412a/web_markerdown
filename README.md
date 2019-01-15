@@ -20,5 +20,9 @@
  明碼加密2:可以加解密(md5)
    
    https://github.com/leoa12412a/web_markerdown/blob/master/%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86.txt
-  
+   
+   
+# 2.SEVER : centos
+
+  建立mysql UI
    
